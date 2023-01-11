@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$/../companycrud">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../companycrud" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://$PROJECT_DIR$/../crudimage">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../crudimage" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://$PROJECT_DIR$/../crudop">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../crudop" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://$PROJECT_DIR$/../customers">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../customers" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://$PROJECT_DIR$/../new_emp">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../new_emp" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://$PROJECT_DIR$/../newcrud">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../newcrud" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://$PROJECT_DIR$/../pdo student">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../pdo student" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://$PROJECT_DIR$/../pdoproject">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../pdoproject" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://$PROJECT_DIR$/../testevent">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/../testevent" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>
